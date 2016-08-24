@@ -13,6 +13,8 @@ public class MainActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         System.out.println("inside main changes from github");
+        System.out.println("inside main changes from android studio");
+
     }
 
 
